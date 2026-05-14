@@ -10,6 +10,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>High Performance </summary>
 
+- [GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](https://arxiv.org/abs/2605.10525) (video depth estimation with 3D Geometry), arXiv 2026 | [github](https://github.com/Yuecheng919/GemDepth)
 - [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073/) (precise focal length estimation with metric depth), arXiv 2024 | [github](https://github.com/apple/ml-depth-pro/)
 - [Boosting Generalizability towards Zero-Shot Cross-Dataset Single-Image Indoor Depth by Meta-Initialization](https://scholar.google.com/scholar?oi=bibs&cluster=10790219912035654526&btnI=1&hl=en) (meta-learning), IROS 2024
 - [DoubleTake: Geometry Guided Depth Estimation](https://nianticlabs.github.io/doubletake/resources/DoubleTake.pdf/), ECCV 2024 | [github](https://nianticlabs.github.io/doubletake/) 
